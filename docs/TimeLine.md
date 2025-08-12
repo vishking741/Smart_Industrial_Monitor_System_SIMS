@@ -27,3 +27,14 @@ also kept 5 leds each for potval and tempval for showing indication of value , w
 but it stopped working after i changed the code, should have to fix that i have raw segments of code but i need to join it with sending data to google app script to Google sheets
 
 /// Achieved -> foundation to the core logic for ESP32, with minor changes we can fix it next time and also make http calls via that
+
+# AUG-12 (day-3)
+
+Understood google app script logic for integrating with google sheets 
+
+also made a test attempt for saving the changes of sensors to google sheets and succesufully implemented it using dummy values
+
+to - do : make some api to send data to google sheets in regualar interval of time and make a UI front end for dispalying the data changed, graphs and alert monitering use the UI given by Firestudio 
+
+/// achieved - > gate way between esp32 and google sheets 
+
